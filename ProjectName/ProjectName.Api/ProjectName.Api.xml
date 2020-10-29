@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProjectName.Api</name>
+    </assembly>
+    <members>
+        <member name="M:ProjectName.Api.Controllers.InitialController.Index">
+            <summary>
+            return test value
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
